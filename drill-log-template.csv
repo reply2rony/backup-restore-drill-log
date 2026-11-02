@@ -1,0 +1,5 @@
+date,system,backup_type,restore_target,result,time_minutes,lesson_learned
+2026-01-05,System A,Full,Test folder A,passed,25,Restore checklist worked; keep it with the backup job notes.
+2026-01-19,System B,Incremental,Test folder B,partial,40,Two sample files needed a second restore pass; investigate the job order.
+2026-02-02,System A,Full,Test folder A,failed,60,Sample restore stopped early; backup job settings to be reviewed before re-drill.
+2026-02-16,System C,Full,Test folder C,passed,18,Fastest drill so far; document the steps used for the next run.
